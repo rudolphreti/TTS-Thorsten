@@ -1,0 +1,19 @@
+Hier ist ein vollständiger, gut durchdachter deutscher Text, der sich besonders zum Testen von Text-to-Speech (TTS) eignet und alle diakritischen Zeichen sowie unterschiedliche Satzmelodien, Betonungen und Laute abdeckt:  
+
+„Übermäßig spät äußerte Jörg seinen größten Ärger über die völlig überraschende Maßnahme. Ängstlich blinzelte er, während draußen der Löwe brüllte und die Füße scharrte. Plötzlich öffnete sich die Tür, und ein kühler, frischer Windhauch strömte herein. ‚Was soll das bedeuten?‘, fragte Jörg zögerlich. Doch niemand antwortete. Stattdessen hörte man nur das leise Klappern der Fensterläden und das entfernte Ticken einer alten Uhr.  
+
+Er trat vorsichtig hinaus. Überall lag ein sanfter Nebel, der die Umrisse der Bäume verschwimmen ließ. In der Ferne rief eine Eule, und irgendwo knackte ein Ast. Jörg fröstelte. ‚Ist da jemand?‘, rief er erneut, diesmal lauter.  
+
+Da tauchte plötzlich eine Gestalt auf. Groß, schlank und in einen dunklen Mantel gehüllt. ‚Guten Abend, Jörg‘, sagte die Gestalt mit ruhiger Stimme. ‚Ich habe dich erwartet.‘  
+
+Ein kalter Schauer lief ihm über den Rücken. Doch er fasste sich und fragte: ‚Wer sind Sie – und was wollen Sie von mir?‘  
+
+Die Gestalt lächelte nur und antwortete nicht.“  
+
+Dieser Text bietet:  
+- **Alle deutschen Umlaute und das ß**  
+- **Unterschiedliche Satzlängen und -arten** (Aussagesätze, Fragen, Ausrufe)  
+- **Direkte Rede mit unterschiedlicher Betonung**  
+- **Vielfältige Laute und Stimmungen**, die eine natürliche Sprachausgabe fordern  
+
+So kannst du die Klarheit, Betonung, Emotion und Natürlichkeit der TTS-Stimme optimal testen. Wenn du noch spezielle Wünsche oder Ergänzungen hast, sag einfach Bescheid!  
