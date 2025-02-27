@@ -1,0 +1,39 @@
+# Output-Ordner ignorieren
+output/
+
+# Python-spezifische Dateien ignorieren
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtuelle Umgebungen
+venv/
+ENV/
+.env
+
+# IDE-spezifische Dateien
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db

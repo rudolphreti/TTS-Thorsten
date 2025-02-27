@@ -6,9 +6,12 @@ def clean_text_for_tts(text):
     Entfernt oder ersetzt problematische Zeichen.
     """
     # Alle Arten von Anführungszeichen entfernen
-    quotes = ['"', "'", """, """, "„", "‟", "‚", "'", "‘", "“"]
+    quotes = ['"', "'", "„", "‟", "'", "‘", "“"]
     for quote in quotes:
         text = text.replace(quote, "")
+
+    # Doppelpunkte in Punkte umwandeln
+    text = text.replace(':', '.')
     
     # Andere potenziell problematische Sonderzeichen bereinigen
     problematic_chars = ['\\', '/', '*', '|']

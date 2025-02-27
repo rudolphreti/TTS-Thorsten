@@ -16,4 +16,4 @@ Dieser Text bietet:
 - **Direkte Rede mit unterschiedlicher Betonung**  
 - **Vielfältige Laute und Stimmungen**, die eine natürliche Sprachausgabe fordern  
 
-So kannst du die Klarheit, Betonung, Emotion und Natürlichkeit der TTS-Stimme optimal testen. Wenn du noch spezielle Wünsche oder Ergänzungen hast, sag einfach Bescheid!  
+So kannst du die Klarheit, Betonung, Emotion und Natürlichkeit der TTS-Stimme optimal testen. 
