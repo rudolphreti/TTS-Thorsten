@@ -1,5 +1,6 @@
 # Output-Ordner ignorieren
 output/
+input.txt
 
 # Python-spezifische Dateien ignorieren
 __pycache__/
